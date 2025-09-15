@@ -3,7 +3,7 @@
 
 // let height;
 
-// console.table([name,age,heigh[);
+// console.table([name,age,height]);
 
 
     const str = "Hello World";
